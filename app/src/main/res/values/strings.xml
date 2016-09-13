@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SANDWICH QBANO</string>
+
+    <string name="MiPerfil">Mi pefil</string>
+    <string name="mPrincipal">Principal</string>
+    <string name="titulo">BIENVENIDO A</string>
+    <string name="titulo2">SANDWICH QBANO</string>
+    <string name="user">Usuario:</string>
+    <string name="pasword">Contraseña:</string>
+    <string name="boton1">Ingresar</string>
+    <string name="boton2">Registrarse</string>
+    <string name="pasword2">Repetir contraseña:</string>
+    <string name="correo">Correo:</string>
+    <string name="p1">Ingresar los datos</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="tipo1">TIPOS DE SANDWICH</string>
+    <string name="tipo2">TIPOS DE ENSALADAS</string>
+    <string name="tipo3">OTROS</string>
+</resources>
+
+
